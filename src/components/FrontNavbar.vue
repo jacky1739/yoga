@@ -30,15 +30,21 @@
                 <div class="collapse navbar-collapse flex-grow-0" id="navbarNavAltMarkup">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Home</a>
+                            <a class="nav-link px-4 py-4" href="#">課程介紹</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="#">Home</a>
+                            <a class="nav-link px-4 py-4" href="#">瑜珈空間</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="#">Home</a>
+                            <a class="nav-link px-4 py-4" href="#">當月課表</a>
                         </li>
                     </ul>
+                </div>
+                <div class="collapse navbar-collapse flex-grow-0" id="navbarNavAltMarkup">
+                  <div class="d-flex gap-2">
+                    <a class="btn rounded-3 btn-outline-secondary" href="#">立即預約</a>
+                    <a class="btn rounded-3 btn-outline-secondary" href="#">聯絡我們</a>
+                  </div>
                 </div>
             </div>
         </nav>
