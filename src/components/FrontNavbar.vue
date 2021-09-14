@@ -42,7 +42,7 @@
                 </div>
                 <div class="collapse navbar-collapse flex-grow-0" id="navbarNavAltMarkup">
                   <div class="d-flex gap-2">
-                    <a class="btn rounded-3 btn-outline-secondary" href="#">立即預約</a>
+                    <a class="btn rounded-bs btn-outline-secondary" href="#">立即預約</a>
                     <a class="btn rounded-3 btn-outline-secondary" href="#">聯絡我們</a>
                   </div>
                 </div>

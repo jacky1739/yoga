@@ -3,10 +3,17 @@ p {
   margin: 0;
 }
 
-// .px-3 {
-//   padding-right: 3rem;
-//   padding-left: 3rem;
-// }
+h1 {
+  font: normal normal normal 16px/24px Source Han Sans TW;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 2.5rem;
+}
+
+p {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 1.5rem;
+  // color: #707070;
+}
 
 img {
   width: 100%;

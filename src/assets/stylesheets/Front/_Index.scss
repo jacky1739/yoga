@@ -1,0 +1,13 @@
+.banner {
+  background-image: url('https://huan5678.github.io/week8-DOYOGA/assets/images/photo-1612157777902-5382bc6e864b.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  width: 100%;
+  height: 100%;
+  height: 582px;
+  top: 0;
+  @media (min-width: 375px) {
+    height: 560px;
+  }
+}
